@@ -22,8 +22,8 @@ The **HDHomeRun M3U Playlist Generator** is a lightweight Bash script designed t
 To use the script, clone the repository and ensure that you have the required dependencies installed.
 
 ```bash
-git clone https://github.com/yourusername/hdhomerun-m3u-generator.git
-cd hdhomerun-m3u-generator
+git clone https://github.com/thisguyrob/hdhr_get_m3u.git
+cd hdhr_get_m3u
 chmod +x hdhr_get_m3u.sh
 ```
 
